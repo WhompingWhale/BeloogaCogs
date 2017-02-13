@@ -1,7 +1,6 @@
-{
-    "AUTHOR" : "Blugga",
-    "INSTALL_MSG" : "The moste glorious cogs repo has been added!",
-    "NAME" : "BeloogaCogs",
-    "SHORT" : "Cogs of the Belooga",
-    "DESCRIPTION" : "Cogs moste potente of the glorious Belooga"
+
+{"NAME": "BeloogaCogs",
+"AUTHOR" : "Belooga",
+"SHORT": "Cogs of the Belooga",
+"DESCRIPTION" : "Moste potente cogs of the moste potente Belooga"
 }
