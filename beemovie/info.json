@@ -1,9 +1,9 @@
 {
     "AUTHOR" : "Belooga",
-    "SHORT" : "According to all known laws of aviation",
-    "DESCRIPTION" : "According to all known laws of aviation",
+    "SHORT" : "BeeMovie Bot - According to all known laws of aviation",
+    "DESCRIPTION" : "BeeMovie Bot - According to all known laws of aviation",
     "DISABLED" : false,
     "NAME" : "Beemovie",
     "TAGS" : ["meme"],
-    "INSTALL_MSG" : "According to all known laws of aviation"
+    "INSTALL_MSG" : "BeeMovie Bot - According to all known laws of aviation"
 }
