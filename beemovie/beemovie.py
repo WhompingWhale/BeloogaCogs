@@ -1,6 +1,7 @@
 import discord
 from discord.ext import commands
 
+
 class BeeMovie:
     """BeeMovie"""
 
@@ -14,7 +15,6 @@ class BeeMovie:
     await self.bot.say("""According to all known laws
         of aviation,
 
-        
         there is no way a bee
         should be able to fly.
 
@@ -128,7 +128,7 @@ class BeeMovie:
 
         - You going to the funeral?
         - No, I'm not going.""")
-      
+
     await self.bot.say("""
 
         Everybody knows,
@@ -245,8 +245,8 @@ class BeeMovie:
 
 
         Honey!""")
-		
-    await self.bot.say("""  
+
+    await self.bot.say("""
         - That girl was hot.
         - She's my cousin!
 
@@ -361,7 +361,7 @@ class BeeMovie:
 
         Please clear the gate.
         Royal Nectar Force on approach.""")
-		
+
     await self.bot.say("""Wait a second. Oheck it out.
 
 
@@ -595,8 +595,8 @@ class BeeMovie:
 
         One of them's yours! Oongratulations!
         Step to the side.""")
-        
-    await self.bot.say("""  
+
+    await self.bot.say("""
         - What'd you get?
         - Picking crud out. Stellar!
 
@@ -713,7 +713,7 @@ class BeeMovie:
 
 
         It's OK, Lou. We're gonna take him up.""")
-      
+
     await self.bot.say("""
 
         Really? Feeling lucky, are you?
@@ -829,10 +829,9 @@ class BeeMovie:
 
 
         Bring it around 30 degrees and hold.""")
-      
+
     await self.bot.say("""Roses!
 
-         
         30 degrees, roger. Bringing it around.
 
 
@@ -947,7 +946,7 @@ class BeeMovie:
 
 
         What is this?!""")
-      
+
     await self.bot.say("""
 
         Match point!
@@ -1065,7 +1064,7 @@ class BeeMovie:
 
 
         I don't remember the sun""")
-        
+
     await self.bot.say("""having a big 75 on it.
 
 
@@ -1182,8 +1181,8 @@ class BeeMovie:
 
         How should I start it?
         You like jazz? No, that's no good.""")
-      
-    await self.bot.say("""  
+
+    await self.bot.say("""
         Here she comes! Speak, you fool!
 
 
@@ -1299,8 +1298,8 @@ class BeeMovie:
 
         - I shouldn't.
         - Have some.""")
-      
-    await self.bot.say("""  
+
+    await self.bot.say("""
         - No, I can't.
         - Oome on!
 
@@ -1417,7 +1416,7 @@ class BeeMovie:
 
 
         Yeah, it's no trouble.""")
-        
+
     await self.bot.say("""
 
         Sorry I couldn't finish it. If I did,
@@ -1652,7 +1651,7 @@ class BeeMovie:
 
         Barry, come out.
         Your father's talking to you.""")
-      
+
     await self.bot.say("""
 
         Martin, would you talk to him?
@@ -1770,8 +1769,8 @@ class BeeMovie:
         Very carefully.
         You kick a wall, take a walk,
         """)
-        
-    await self.bot.say("""  
+
+    await self.bot.say("""
         write an angry letter and throw it out.
         Work through it like any emotion:
 
@@ -1886,7 +1885,7 @@ class BeeMovie:
 
 
         Well, I guess I'll go home now""")
-        
+
     await self.bot.say("""and just leave this nice honey out,
         with no one around.
 
@@ -2002,7 +2001,7 @@ class BeeMovie:
 
         From NPR News in Washington,
         I'm Oarl Kasell.""")
-        
+
     await self.bot.say("""But don't kill no more bugs!
 
 
@@ -2118,7 +2117,7 @@ class BeeMovie:
 
         A couple breaths of this
         knocks them right out.""")
-        
+
     await self.bot.say("""They make the honey,
         and we make the money.
 
@@ -2353,7 +2352,7 @@ class BeeMovie:
 
         Next week...
         """)
-    await self.bot.say("""  
+    await self.bot.say("""
         Glasses, quotes on the bottom from the
         guest even though you just heard 'em.
 
@@ -3054,7 +3053,7 @@ class BeeMovie:
 
         Don't worry. The only thing I have
         to do to turn this jury around""")
-		
+
     await self.bot.say("""
 
         is to remind them
@@ -3288,7 +3287,7 @@ class BeeMovie:
 
 
         And assuming you've done step correctly, you're ready for the tub.""")
-		
+
     await self.bot.say("""
 
         Mr. Flayman.
@@ -3405,8 +3404,8 @@ class BeeMovie:
 
 
         Free the bees! Free the bees!""")
-    
-	await self.bot.say("""  
+
+await self.bot.say("""
         Free the bees!
 
 
@@ -3523,8 +3522,8 @@ class BeeMovie:
 
 
         Hold it right there! Good.""")
-    
-	await self.bot.say("""
+
+await self.bot.say("""
 
         Tap it.
 
@@ -3640,8 +3639,8 @@ class BeeMovie:
 
 
         No.""")
-    
-	await self.bot.say("""  
+
+await self.bot.say("""
         And whose fault do you think that is?
 
 
@@ -3758,8 +3757,8 @@ class BeeMovie:
 
 
         I know.""")
-    
-	await self.bot.say("""That's why this is the last parade.
+
+await self.bot.say("""That's why this is the last parade.
 
 
         Maybe not.
@@ -3876,8 +3875,8 @@ class BeeMovie:
 
 
         - Not in this fairy tale, sweetheart.""")
-    
-	await self.bot.say("""- I'm getting the marshal.
+
+await self.bot.say("""- I'm getting the marshal.
 
 
         You do that!
@@ -3993,8 +3992,7 @@ class BeeMovie:
 
         Oh, Barry.""")
 
-       
-    await self.bot.say("""Good afternoon, passengers.
+await self.bot.say("""Good afternoon, passengers.
         This is your captain.
 
 
@@ -4111,8 +4109,8 @@ class BeeMovie:
 
         I'm quite familiar with Mr. Benson
         and his no-account compadres.""")
-		
-    await self.bot.say("""
+
+await self.bot.say("""
 
         They've done enough damage.
 
@@ -4229,8 +4227,8 @@ class BeeMovie:
 
 
         Vanessa, pull yourself together.""")
-		
-    await self.bot.say("""You have to snap out of it!
+
+await self.bot.say("""You have to snap out of it!
 
 
         You snap out of it.
@@ -4347,8 +4345,8 @@ class BeeMovie:
 
         Spin it around!
         """)
-		
-    await self.bot.say("""  
+
+await self.bot.say("""
         - Not that flower! The other one!
         - Which one?
 
@@ -4464,7 +4462,7 @@ class BeeMovie:
 
         Oh, yeah.""")
 
-    await self.bot.say("""That's our Barry.
+await self.bot.say("""That's our Barry.
 
 
         Mom! The bees are back!
@@ -4580,6 +4578,7 @@ class BeeMovie:
 
 
         I had virtually no rehearsal for that.""")
-     
-        def setup(bot):
-  bot.add_cog(BeeMovie(bot))
+
+
+def setup(bot):
+    bot.add_cog(BeeMovie(bot))
