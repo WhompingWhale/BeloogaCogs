@@ -11,7 +11,7 @@ class BeeMovie:
     async def beemovie(self):
         """Bees Bees Bees"""
 
-        await self.bot.say("According to all known laws
+        await self.bot.say("""According to all known laws
 		of aviation,
 
 		  
@@ -127,8 +127,8 @@ class BeeMovie:
 
 		  
 		- You going to the funeral?
-		- No, I'm not going.")
-				await self.bot.say("
+		- No, I'm not going.""")
+				await self.bot.say("""
 		  
 		Everybody knows,
 		sting someone, you die.
@@ -244,8 +244,8 @@ class BeeMovie:
 
 		  
 		Honey!
-		")
-				await self.bot.say("  
+		""")
+				await self.bot.say("""  
 		- That girl was hot.
 		- She's my cousin!
 
@@ -323,7 +323,7 @@ class BeeMovie:
 		Wow! That blew my mind!
 
 		  
-		"What's the difference?"
+		"""What's the difference?"""
 		How can you say that?
 
 		  
@@ -361,8 +361,8 @@ class BeeMovie:
 		Please clear the gate.
 		Royal Nectar Force on approach.
 
-		  ")
-				await self.bot.say("Wait a second. Oheck it out.
+		  """)
+				await self.bot.say("""Wait a second. Oheck it out.
 
 		  
 		- Hey, those are Pollen Jocks!
@@ -478,8 +478,8 @@ class BeeMovie:
 		but maybe you're not up for it.
 
 		  
-		- Maybe I am.")
-				await self.bot.say("- You are not!
+		- Maybe I am.""")
+				await self.bot.say("""- You are not!
 
 		  
 		We're going 0900 at J-Gate.
@@ -568,7 +568,7 @@ class BeeMovie:
 
 		  
 		Shack up with a grasshopper. Get
-		a gold tooth and call everybody "dawg"!
+		a gold tooth and call everybody """dawg"""!
 
 		  
 		I'm so proud.
@@ -595,8 +595,8 @@ class BeeMovie:
 		  
 		One of them's yours! Oongratulations!
 		Step to the side.
-		")
-				await self.bot.say("  
+		""")
+				await self.bot.say("""  
 		- What'd you get?
 		- Picking crud out. Stellar!
 
@@ -712,8 +712,8 @@ class BeeMovie:
 		Hold it, son, flight deck's restricted.
 
 		  
-		It's OK, Lou. We're gonna take him up.")
-				await self.bot.say("
+		It's OK, Lou. We're gonna take him up.""")
+				await self.bot.say("""
 		  
 		Really? Feeling lucky, are you?
 
@@ -829,8 +829,8 @@ class BeeMovie:
 		  
 		Bring it around 30 degrees and hold.
 
-		  ")
-				await self.bot.say("Roses!
+		  """)
+				await self.bot.say("""Roses!
 
 		  
 		30 degrees, roger. Bringing it around.
@@ -946,8 +946,8 @@ class BeeMovie:
 		- I think he knows.
 
 		  
-		What is this?!")
-				await self.bot.say("
+		What is this?!""")
+				await self.bot.say("""
 		  
 		Match point!
 
@@ -1063,8 +1063,8 @@ class BeeMovie:
 		There's the sun. Maybe that's a way out.
 
 		  
-		I don't remember the sun")
-				await self.bot.say("having a big 75 on it.
+		I don't remember the sun""")
+				await self.bot.say("""having a big 75 on it.
 
 		  
 		I predicted global warming.
@@ -1180,8 +1180,8 @@ class BeeMovie:
 		  
 		How should I start it?
 		You like jazz? No, that's no good.
-		")
-				await self.bot.say("  
+		""")
+				await self.bot.say("""  
 		Here she comes! Speak, you fool!
 
 		  
@@ -1297,8 +1297,8 @@ class BeeMovie:
 		  
 		- I shouldn't.
 		- Have some.
-		")
-				await self.bot.say("  
+		""")
+				await self.bot.say("""  
 		- No, I can't.
 		- Oome on!
 
@@ -1414,8 +1414,8 @@ class BeeMovie:
 		Thanks for the coffee.
 
 		  
-		Yeah, it's no trouble.")
-				await self.bot.say("
+		Yeah, it's no trouble.""")
+				await self.bot.say("""
 		  
 		Sorry I couldn't finish it. If I did,
 		I'd be up the rest of my life.
@@ -1531,8 +1531,8 @@ class BeeMovie:
 		So who is she?
 
 		  
-		She's... human.")
-				await self.bot.say("
+		She's... human.""")
+				await self.bot.say("""
 		  
 		No, no. That's a bee law.
 		You wouldn't break a bee law.
@@ -1648,8 +1648,8 @@ class BeeMovie:
 
 		  
 		Barry, come out.
-		Your father's talking to you.")
-				await self.bot.say("
+		Your father's talking to you.""")
+				await self.bot.say("""
 		  
 		Martin, would you talk to him?
 
@@ -1765,8 +1765,8 @@ class BeeMovie:
 		  
 		Very carefully.
 		You kick a wall, take a walk,
-		")
-				await self.bot.say("  
+		""")
+				await self.bot.say("""  
 		write an angry letter and throw it out.
 		Work through it like any emotion:
 
@@ -1882,8 +1882,8 @@ class BeeMovie:
 		  
 		Well, I guess I'll go home now
 
-		  ")
-				await self.bot.say("and just leave this nice honey out,
+		  """)
+				await self.bot.say("""and just leave this nice honey out,
 		with no one around.
 
 		  
@@ -1999,8 +1999,8 @@ class BeeMovie:
 		From NPR News in Washington,
 		I'm Oarl Kasell.
 
-		  ")
-				await self.bot.say("But don't kill no more bugs!
+		  """)
+				await self.bot.say("""But don't kill no more bugs!
 
 		  
 		- Bee!
@@ -2116,8 +2116,8 @@ class BeeMovie:
 		A couple breaths of this
 		knocks them right out.
 
-		  ")
-				await self.bot.say("They make the honey,
+		  """)
+				await self.bot.say("""They make the honey,
 		and we make the money.
 
 		  
@@ -2233,8 +2233,8 @@ class BeeMovie:
 		I remember that.
 
 		  
-		What right do they have to our honey?")
-				await self.bot.say("
+		What right do they have to our honey?""")
+				await self.bot.say("""
 		  
 		We live on two cups a year. They put it
 		in lip balm for no reason whatsoever!
@@ -2350,8 +2350,8 @@ class BeeMovie:
 
 		  
 		Next week...
-		")
-				await self.bot.say("  
+		""")
+				await self.bot.say("""  
 		Glasses, quotes on the bottom from the
 		guest even though you just heard 'em.
 
@@ -2467,8 +2467,8 @@ class BeeMovie:
 
 		  
 		- This lawsuit's a pretty big deal.
-		- I guess.")
-				await self.bot.say("
+		- I guess.""")
+				await self.bot.say("""
 		  
 		You sure you want to go through with it?
 
@@ -2584,8 +2584,8 @@ class BeeMovie:
 		  
 		Talking bee!
 
-		  ")
-				await self.bot.say("How do we know this isn't some sort of
+		  """)
+				await self.bot.say("""How do we know this isn't some sort of
 
 		  
 		holographic motion-picture-capture
@@ -2701,8 +2701,8 @@ class BeeMovie:
 		through your living room?!
 
 		  
-		Biting into your couch!")
-				await self.bot.say("Spitting out your throw pillows!
+		Biting into your couch!""")
+				await self.bot.say("""Spitting out your throw pillows!
 
 		  
 		OK, that's enough. Take him away.
@@ -2818,8 +2818,8 @@ class BeeMovie:
 		Are we doing everything right, legally?
 
 		  
-		I'm a florist.")
-				await self.bot.say("
+		I'm a florist.""")
+				await self.bot.say("""
 		  
 		Right. Well, here's to a great team.
 
@@ -2935,8 +2935,8 @@ class BeeMovie:
 		  
 		How do you like the smell of flames?!
 
-		  ")
-				await self.bot.say("Not as much.
+		  """)
+				await self.bot.say("""Not as much.
 
 		  
 		Water bug! Not taking sides!
@@ -3052,8 +3052,8 @@ class BeeMovie:
 
 		  
 		Don't worry. The only thing I have
-		to do to turn this jury around")
-				await self.bot.say("
+		to do to turn this jury around""")
+				await self.bot.say("""
 		  
 		is to remind them
 		of what they don't like about bees.
@@ -3169,8 +3169,8 @@ class BeeMovie:
 		  
 		I will have order in this court. Order!
 
-		  ")
-				await self.bot.say("Order, please!
+		  """)
+				await self.bot.say("""Order, please!
 
 		  
 		The case of the honeybees
@@ -3286,8 +3286,8 @@ class BeeMovie:
 		Stall any way you can.
 
 		  
-		And assuming you've done step correctly, you're ready for the tub.")
-				await self.bot.say("
+		And assuming you've done step correctly, you're ready for the tub.""")
+				await self.bot.say("""
 		  
 		Mr. Flayman.
 
@@ -3403,8 +3403,8 @@ class BeeMovie:
 
 		  
 		Free the bees! Free the bees!
-		")
-				await self.bot.say("  
+		""")
+				await self.bot.say("""  
 		Free the bees!
 
 		  
@@ -3520,8 +3520,8 @@ class BeeMovie:
 		Bring it in, boys!
 
 		  
-		Hold it right there! Good.")
-				await self.bot.say("
+		Hold it right there! Good.""")
+				await self.bot.say("""
 		  
 		Tap it.
 
@@ -3637,8 +3637,8 @@ class BeeMovie:
 
 		  
 		No.
-		")
-				await self.bot.say("  
+		""")
+				await self.bot.say("""  
 		And whose fault do you think that is?
 
 		  
@@ -3754,8 +3754,8 @@ class BeeMovie:
 		Flowers, bees, pollen!
 
 		  
-		I know.")
-				await self.bot.say("That's why this is the last parade.
+		I know.""")
+				await self.bot.say("""That's why this is the last parade.
 
 		  
 		Maybe not.
@@ -3871,8 +3871,8 @@ class BeeMovie:
 		It goes under the mattresses.
 
 		  
-		- Not in this fairy tale, sweetheart.")
-				await self.bot.say("- I'm getting the marshal.
+		- Not in this fairy tale, sweetheart.""")
+				await self.bot.say("""- I'm getting the marshal.
 
 		  
 		You do that!
@@ -3988,8 +3988,8 @@ class BeeMovie:
 		  
 		Oh, Barry.
 
-		  ")                   
-				await self.bot.say("Good afternoon, passengers.
+		  """)                   
+				await self.bot.say("""Good afternoon, passengers.
 		This is your captain.
 
 		  
@@ -4105,8 +4105,8 @@ class BeeMovie:
 
 		  
 		I'm quite familiar with Mr. Benson
-		and his no-account compadres.")
-				await self.bot.say("
+		and his no-account compadres.""")
+				await self.bot.say("""
 		  
 		They've done enough damage.
 
@@ -4222,8 +4222,8 @@ class BeeMovie:
 		I can't do this!
 
 		  
-		Vanessa, pull yourself together.")
-				await self.bot.say("You have to snap out of it!
+		Vanessa, pull yourself together.""")
+				await self.bot.say("""You have to snap out of it!
 
 		  
 		You snap out of it.
@@ -4339,8 +4339,8 @@ class BeeMovie:
 
 		  
 		Spin it around!
-		")
-				await self.bot.say("  
+		""")
+				await self.bot.say("""  
 		- Not that flower! The other one!
 		- Which one?
 
@@ -4456,8 +4456,8 @@ class BeeMovie:
 		  
 		Oh, yeah.
 
-		  ")
-				await self.bot.say("That's our Barry.
+		  """)
+				await self.bot.say("""That's our Barry.
 
 		  
 		Mom! The bees are back!
@@ -4572,7 +4572,7 @@ class BeeMovie:
 		Wrap it up, guys.
 
 		  
-		I had virtually no rehearsal for that.")
+		I had virtually no rehearsal for that.""")
 								   
 		def setup(bot):
 			bot.add_cog(BeeMovie(bot))
