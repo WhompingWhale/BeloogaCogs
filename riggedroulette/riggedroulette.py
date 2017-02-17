@@ -190,7 +190,7 @@ class Russianroulette:
             await self.bot.say("{} presses the revolver to their temple and slowly squeezes the "
                                "trigger...".format(player.name))
             if "Anal" in player.name:
-				chance = 1
+                chance = 1
             if chance == 1:
                 await asyncio.sleep(4)
                 msg = "**BOOM**\n```{} died and was removed from the group.```".format(player.name)
