@@ -92,9 +92,19 @@ class Russianroulette:
         """Reset command if game is stuck."""
         server = ctx.message.server
         settings = self.check_server_settings(server)
+        settings["System"]["Dead Player"] = deadplayer
+        dataIO.save_json(self.file_path, self.system)
         self.reset_game(settings)
         await self.bot.say("Russian Roulette system has been reset.")
-
+       
+    @commands.command(pass_context=True, no_pm=True)
+    @checks.admin_or_permissions(manage_server=True)
+    async def rrnowin(self, ctx, deadplayer: string):
+        """Rig the game so this player can't win"""
+        server = ctx.message.server
+        settings = self.check_server_settings(server)
+        await self.bot.say("Target Acquired.")
+        
     @commands.command(pass_context=True, no_pm=True, aliases=["rr"])
     async def russian(self, ctx, bet: int):
         user = ctx.message.author
@@ -130,7 +140,7 @@ class Russianroulette:
                 else:
                     await self.bot.say("Gather around! The game of russian roulette is starting.\n"
                                        "I'm going to load a round into this six shot revovler, "
-                                       "give it a good spin, and pass it off to someone at random."
+                                       "give it a good spin, and pass it off to someone at random. "
                                        "If everyone is lucky enough to have a turn, I\'ll start "
                                        "all over. Good luck!")
                     await asyncio.sleep(5)
